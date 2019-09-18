@@ -92,7 +92,5 @@ Finally, submit it
 
 `msub runtest.sh`
 
-![[Server parallelization|server-2160321_640.jpg]]  
-**Contents**
 
 {{toc/}}
